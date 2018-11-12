@@ -16,3 +16,9 @@ Fernando Maciel
 
 ### É recomendável utilizar o Mozilla Firefox 
 
+## Referências
+
+```sudo apt-get install pymol```
+```https://sourceforge.net/projects/jmol/files/```
+``` https://github.com/d3/d3-force```
+```https://d3js.org/```
